@@ -1,4 +1,4 @@
-## React + Typescript + Redux-Toolkit
+## React + Typescript-Template + Redux-Toolkit
 
 ---
 
